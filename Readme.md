@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CircularGauge_Silverlight/MainPage.xaml) (VB: [MainPage.xaml](./VB/CircularGauge_Silverlight/MainPage.xaml))
+<!-- default file list end -->
 # DXGauges Getting Started - Lesson 1 - Create a Circular Gauge
 
 
